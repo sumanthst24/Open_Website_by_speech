@@ -1,4 +1,4 @@
-It is a basic through which an user can open a webiste through voice.
+It is a basic through which an user can open a website through voice.
 
 After executing the script the system prompts the user to ask for a site to open
 
